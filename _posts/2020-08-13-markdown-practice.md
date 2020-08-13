@@ -1,9 +1,11 @@
 ---
 title: markdown 연습하기 - 1
 tags:
-- Test, Markdown
+- Test
+- Markdown
 categories:
-- Test, Markdown
+- Test
+- Markdown
 ---
 
 기본적인 텍스트 표기 방식  
