@@ -22,9 +22,9 @@ subtitle                 : "Version 0.1" # site tagline that appears below site 
 name                     : "lupoalfa"
 description              : "개발 영역 이곳저곳 돌아다니며 공부하는 블로그입니다. "
 url                      : "https://lupoalfa.github.io/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : # the subpath of your site, e.g. "/blog"
+baseurl                  : "/blog" # the subpath of your site, e.g. "/blog"
 repository               : "lupoalfa/lupoalfa.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : "/assets/images/football-pitch.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
+teaser                   : #"/assets/images/football-pitch.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
 logo                     : #"/assets/images/football-pitch.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Box to Box Developer" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
