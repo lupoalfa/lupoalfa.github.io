@@ -25,7 +25,7 @@ url                      : "https://lupoalfa.github.io/" # the base hostname & p
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "lupoalfa/lupoalfa.github.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : #"/assets/images/football-pitch.png" # path of fallback teaser image, e.g. "/assets/images/500x300.png"
-logo                     : #"/assets/images/football-pitch.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
+logo                     : "/assets/images/wolf.png" # path of logo image to display in the masthead, e.g. "/assets/images/88x88.png"
 masthead_title           : "Box to Box Developer" # overrides the website title displayed in the masthead, use " " for no title
 breadcrumbs              : true # true, false (default)
 words_per_minute         : 200
@@ -79,7 +79,7 @@ facebook:
   username               :
   app_id                 :
   publisher              :
-og_image                 : # Open Graph/Twitter default site image
+og_image                 : "/assets/images/wolf.png"# Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
@@ -280,7 +280,7 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
 
